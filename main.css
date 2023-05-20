@@ -1,0 +1,14 @@
+
+.image_container{
+  display: flex;
+  width: 300px;
+  height: 300px;
+  gap: 90px;
+  position: absolute;
+  top: 200px;
+
+}
+.image_container img{
+  border-radius: 30px;
+  box-shadow: 1px 1px 40px rgb(255, 255, 255);
+}
